@@ -1,0 +1,9 @@
+G:\3.htPrjCode\LuTK\LuTK\LuTK\bin\Debug\LuTK.exe.config
+G:\3.htPrjCode\LuTK\LuTK\LuTK\bin\Debug\LuTK.exe
+G:\3.htPrjCode\LuTK\LuTK\LuTK\bin\Debug\LuTK.pdb
+G:\3.htPrjCode\LuTK\LuTK\LuTK\obj\Debug\LuTK.csprojAssemblyReference.cache
+G:\3.htPrjCode\LuTK\LuTK\LuTK\obj\Debug\LuTK.Properties.Resources.resources
+G:\3.htPrjCode\LuTK\LuTK\LuTK\obj\Debug\LuTK.csproj.GenerateResource.cache
+G:\3.htPrjCode\LuTK\LuTK\LuTK\obj\Debug\LuTK.csproj.CoreCompileInputs.cache
+G:\3.htPrjCode\LuTK\LuTK\LuTK\obj\Debug\LuTK.exe
+G:\3.htPrjCode\LuTK\LuTK\LuTK\obj\Debug\LuTK.pdb
